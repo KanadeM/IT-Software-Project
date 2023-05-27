@@ -1,0 +1,45 @@
+'use strict';
+
+/**
+ * session model
+ */
+
+const mongoose = require('mongoose');
+
+//Define a schema
+let Schema = mongoose.Schema;
+
+let ProgramModelSchema = new Schema({
+    program_id: {type: String, required: true},
+    session_ids: {type: [String], required: false},
+    club_id: {type: Number, required: false},
+    title: {type: String, required: false},
+    start_date: {type: Date, required: true},
+    phase_id: {type: String, required: false},
+    phase: {type: String, required: false},
+    activity_type_id: {type: String, required: false},
+    activity_type: {type: String, required: false},
+    level: {type: String, required: false},
+    weeks: {type: Number, required: false},
+});
+
+let Program = mongoose.model('Program', ProgramModelSchema);
+
+/**
+ * Create a new Program record
+ * @returns {Model}
+ */
+Program.createNewProgram =
+    function (program_id, title, start_date, weeks, phase, activity_type, athlete_level) {
+        return new Program({
+            program_id: program_id,
+            title: title,
+            start_date: start_date,
+            weeks: weeks,
+            phase: phase,
+            activity_type: activity_type,
+            athlete_level: athlete_level
+        });
+    };
+
+module.exports = Program;

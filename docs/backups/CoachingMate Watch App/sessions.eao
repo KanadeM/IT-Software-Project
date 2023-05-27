@@ -1,0 +1,201 @@
+const express = require('express');
+const router = express.Router();
+const Session = require('../mongodb/module-session');
+const Program = require('../mongodb/module-program');
+
+const db = require('../mysql/connection');
+
+/* GET all sessions */
+router.get('/', function (req, res, next) {
+    Session.find({}, function (err, sessions) {
+        if (err) {
+            console.log(err);
+            res.sendStatus(404);
+        }
+        return res.send(JSON.stringify(sessions));
+    });
+});
+
+/* GET sessions for a specific coach */
+router.get('/:coach_id', function (req, res, next) {
+    Session.find({added_by: req.params.coach_id}, function (err, sessions) {
+        if (err) {
+            console.log(err);
+            res.sendStatus(404);
+        }
+        return res.send(JSON.stringify(sessions));
+    });
+});
+
+/* GET session description details from mongodb by id */
+// eg: http://localhost:3000/sessions/_13i4tj399/description
+router.get('/:session_id/description', function (req, res, next) {
+    let session_id = req.params.session_id;
+    console.log('Querying description by session_id: ' + session_id);
+
+    Session.find({session_id: session_id}, function (err, sessions) {
+        if (err) {
+            console.log(err);
+            res.sendStatus(404);
+        }
+        console.log("sessions length:" + sessions.length);
+        res.send(JSON.stringify(sessions));
+    });
+});
+
+/*
+    POST method to create a session
+    eg:http://localhost:3000/sessions/create
+ */
+router.post('/create', function (req, res) {
+    let request = req.body;
+    let create_date = new Date();
+    let type = request.type;
+    let allContent = request.content;
+    let data = req.body;
+
+    let session_id = generateId();
+    let title = data.title;
+    let date = data.date;
+    let hour = data.hour;
+    let minute = data.minute;
+    let distance = data.distance;
+    let unit = data.unit;
+    let rpe = data.rpe;
+    let activity_type = data.activity_type;
+    let family_name = data.family_name;
+    let level = data.level;
+    let keywords = [data.keywords];
+    let added_by = data.added_by;
+    let description = data.description;
+    let descriptions = {};
+
+    if (description !== null && description !== undefined) {
+        descriptions.warm_up = [];
+        descriptions.main_set = [];
+        descriptions.cool_down = [];
+    
+        for (let i = 0; i < description.warm_up.length; i++){
+            let instruction = description.warm_up[i].instruction;
+            let zone = description.warm_up[i].zone;
+            let comment = description.warm_up[i].comment;
+            let content = {instruction:instruction,zone:zone,comment:comment};
+            descriptions.warm_up.push(content);
+        }
+        for (let i = 0; i < description.main_set.length; i++){
+            let instruction = description.main_set[i].instruction;
+            let zone = description.main_set[i].zone;
+            let comment = description.main_set[i].comment;
+            let content = {instruction:instruction,zone:zone,comment:comment};
+            descriptions.main_set.push(content);
+        }
+        for (let i = 0; i < description.cool_down.length; i++){
+            let instruction = description.cool_down[i].instruction;
+            let zone = description.cool_down[i].zone;
+            let comment = description.cool_down[i].comment;
+            let content = {instruction:instruction,zone:zone,comment:comment};
+            descriptions.cool_down.push(content);
+        }
+    }
+
+    let new_session = Session.createNewSession(
+        session_id,
+        title,
+        date,
+        hour,
+        minute,
+        distance,
+        unit,
+        rpe,
+        activity_type,
+        family_name,
+        level,
+        keywords,
+        added_by,
+        descriptions
+    );
+    new_session.save(function (err) {
+        if (err) {
+            res.sendStatus(400);
+            throw err;
+        }
+        console.log("New session " + session_id + " is stored in db");
+        res.sendStatus(200);
+    });
+
+    // for (let i = 0; i < allContent.length; i++) {
+    //     let content = allContent[i];
+    //     let description_content_id = i + session_id;
+    //     let description_id = session_id;
+    //     let title = content.title;
+    //     let time = content.time;
+    //     let prefix = content.prefix;
+    //     let load = content.load;
+    //     let suffix = content.suffix;
+    //     let new_session_description_content = SessionDescriptionContent.createNewSessionDescriptionContent(description_content_id,
+    //         description_id, title, time, prefix, load, suffix);
+    //     new_session_description_content.save(function (err) {
+    //         if (err) {
+    //             res.sendStatus(400);
+    //             throw err;
+    //         }
+    //     });
+    // }
+
+    // let new_session_description = SessionDescription.createNewSessionDescription(session_id, date, type,sport_type, totalDistance);
+    // new_session_description.save(function (err) {
+    //     if (err) {
+    //         res.sendStatus(400);
+    //         throw err;
+    //     }
+    //     console.log("New session description " + session_id + " is stored in db")
+    // });
+
+    // res.sendStatus(200);
+
+});
+
+/*
+Assign a session to program
+    */
+router.post('/assign_session/:program_id/:session_id', function(req, res, next) {
+    Program.findOneAndUpdate(
+        {program_id: req.params.program_id},
+        { $push: { session_ids: req.params.session_id } }, function (err, success) {
+            if (err) {
+                console.log(err);
+                return res.send(err);
+            }
+            res.send(success);
+        });
+});
+
+router.post('/update/:session_id', function(req, res, next) {
+    console.log(req.body);
+    Session.findOneAndUpdate(
+        {session_id: req.body.session_id},
+        {
+          $set: {
+            feedback: req.body.feedback
+          }
+        },
+        {strict: false},
+        function (err, success) {
+          if (err) {
+            console.log(err);
+            return res.send(err);
+          }
+          console.log('Session ' + req.body.session_id + ' has been updated');
+          res.send('success');
+        }
+    );
+});
+
+function generateId() {
+    // Math.random should be unique because of its seeding algorithm.
+    // Convert it to base 36 (numbers + letters), and grab the first 9 characters
+    // after the decimal.
+    return '_' + Math.random().toString(36).substr(2, 9);
+}
+
+module.exports = router;

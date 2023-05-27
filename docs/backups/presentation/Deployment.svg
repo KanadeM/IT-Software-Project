@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 9.199 813.058 490.801" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="SvgjsMarker1684" markerWidth="14" markerHeight="10" refX="4" refY="5" viewBox="0 0 14 10" orient="auto" markerUnits="userSpaceOnUse" stroke-dasharray="0,0">
+      <path id="SvgjsPath1685" d="M14,0 L0,5 L14,10 L14,0" fill="#323232" stroke="#323232" stroke-width="1"/>
+    </marker>
+    <marker id="SvgjsMarker1686" markerWidth="14" markerHeight="10" refX="10" refY="5" viewBox="0 0 14 10" orient="auto" markerUnits="userSpaceOnUse" stroke-dasharray="0,0">
+      <path id="SvgjsPath1687" d="M0,0 L14,5 L0,10 L0,0" fill="#323232" stroke="#323232" stroke-width="1"/>
+    </marker>
+    <marker id="SvgjsMarker1694" markerWidth="14" markerHeight="10" refX="4" refY="5" viewBox="0 0 14 10" orient="auto" markerUnits="userSpaceOnUse" stroke-dasharray="0,0">
+      <path id="SvgjsPath1695" d="M14,0 L0,5 L14,10 L14,0" fill="#323232" stroke="#323232" stroke-width="1"/>
+    </marker>
+    <marker id="SvgjsMarker1696" markerWidth="14" markerHeight="10" refX="10" refY="5" viewBox="0 0 14 10" orient="auto" markerUnits="userSpaceOnUse" stroke-dasharray="0,0">
+      <path id="SvgjsPath1697" d="M0,0 L14,5 L0,10 L0,0" fill="#323232" stroke="#323232" stroke-width="1"/>
+    </marker>
+    <marker id="SvgjsMarker1704" markerWidth="14" markerHeight="10" refX="4" refY="5" viewBox="0 0 14 10" orient="auto" markerUnits="userSpaceOnUse" stroke-dasharray="0,0">
+      <path id="SvgjsPath1705" d="M14,0 L0,5 L14,10 L14,0" fill="#323232" stroke="#323232" stroke-width="1"/>
+    </marker>
+    <marker id="SvgjsMarker1706" markerWidth="14" markerHeight="10" refX="10" refY="5" viewBox="0 0 14 10" orient="auto" markerUnits="userSpaceOnUse" stroke-dasharray="0,0">
+      <path id="SvgjsPath1707" d="M0,0 L14,5 L0,10 L0,0" fill="#323232" stroke="#323232" stroke-width="1"/>
+    </marker>
+    <marker id="SvgjsMarker1724" markerWidth="14" markerHeight="10" refX="4" refY="5" viewBox="0 0 14 10" orient="auto" markerUnits="userSpaceOnUse" stroke-dasharray="0,0">
+      <path id="SvgjsPath1725" d="M14,0 L0,5 L14,10 L14,0" fill="#323232" stroke="#323232" stroke-width="1"/>
+    </marker>
+    <marker id="SvgjsMarker1726" markerWidth="14" markerHeight="10" refX="10" refY="5" viewBox="0 0 14 10" orient="auto" markerUnits="userSpaceOnUse" stroke-dasharray="0,0">
+      <path id="SvgjsPath1727" d="M0,0 L14,5 L0,10 L0,0" fill="#323232" stroke="#323232" stroke-width="1"/>
+    </marker>
+    <marker id="SvgjsMarker1746" markerWidth="14" markerHeight="10" refX="4" refY="5" viewBox="0 0 14 10" orient="auto" markerUnits="userSpaceOnUse" stroke-dasharray="0,0">
+      <path id="SvgjsPath1747" d="M14,0 L0,5 L14,10 L14,0" fill="#323232" stroke="#323232" stroke-width="1"/>
+    </marker>
+    <marker id="SvgjsMarker1748" markerWidth="14" markerHeight="10" refX="10" refY="5" viewBox="0 0 14 10" orient="auto" markerUnits="userSpaceOnUse" stroke-dasharray="0,0">
+      <path id="SvgjsPath1749" d="M0,0 L14,5 L0,10 L0,0" fill="#323232" stroke="#323232" stroke-width="1"/>
+    </marker>
+    <marker id="SvgjsMarker1756" markerWidth="14" markerHeight="10" refX="4" refY="5" viewBox="0 0 14 10" orient="auto" markerUnits="userSpaceOnUse" stroke-dasharray="0,0">
+      <path id="SvgjsPath1757" d="M14,0 L0,5 L14,10 L14,0" fill="#323232" stroke="#323232" stroke-width="1"/>
+    </marker>
+    <marker id="SvgjsMarker1758" markerWidth="14" markerHeight="10" refX="10" refY="5" viewBox="0 0 14 10" orient="auto" markerUnits="userSpaceOnUse" stroke-dasharray="0,0">
+      <path id="SvgjsPath1759" d="M0,0 L14,5 L0,10 L0,0" fill="#323232" stroke="#323232" stroke-width="1"/>
+    </marker>
+  </defs>
+  <g id="SvgjsG1608" transform="matrix(1, 0, 0, 1, 12.068436, 50.500003)">
+    <path id="SvgjsPath1609" d="M 0 4Q 0 0 4 0L 168 0Q 172 0 172 4L 172 278Q 172 282 168 282L 4 282Q 0 282 0 278Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#fff9c4"/>
+    <path id="SvgjsPath1610" d="M 0 25L 51.6 25L 59.6 17L 59.6 0" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#fff9c4"/>
+    <path id="SvgjsPath1611" d="M 0 0L 172 0L 172 282L 0 282Z" stroke="none" fill="none"/>
+    <g id="SvgjsG1612">
+      <text id="SvgjsText1613" font-family="微软雅黑" text-anchor="start" font-size="13px" width="152px" fill="#323232" font-weight="400" align="top" lineheight="125%" anchor="start" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="27.375" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1614" dy="16" x="10"><tspan id="SvgjsTspan1615" style="text-decoration:;">React</tspan></tspan></text>
+    </g>
+    <g id="SvgjsG1616">
+      <text id="SvgjsText1617" font-family="微软雅黑" text-anchor="start" font-size="13px" width="42px" fill="#323232" font-weight="400" align="middle" lineheight="125%" anchor="start" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="1.375" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1618" dy="16" x="10"><tspan id="SvgjsTspan1619" style="text-decoration:;">Heroku</tspan></tspan></text>
+    </g>
+  </g>
+  <g id="SvgjsG1620" transform="matrix(1, 0, 0, 1, 305.068436, 55.000003)">
+    <path id="SvgjsPath1621" d="M 0 4Q 0 0 4 0L 206 0Q 210 0 210 4L 210 383.75Q 210 387.75 206 387.75L 4 387.75Q 0 387.75 0 383.75Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#c8e6c9"/>
+    <path id="SvgjsPath1622" d="M 0 25L 63 25L 71 17L 71 0" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#c8e6c9"/>
+    <path id="SvgjsPath1623" d="M 0 0L 210 0L 210 387.75L 0 387.75Z" stroke="none" fill="none"/>
+    <g id="SvgjsG1624">
+      <text id="SvgjsText1625" font-family="微软雅黑" text-anchor="start" font-size="13px" width="190px" fill="#323232" font-weight="400" align="top" lineheight="125%" anchor="start" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="27.375" transform="rotate(0)" style="white-space: pre-wrap;"/>
+    </g>
+    <g id="SvgjsG1626">
+      <text id="SvgjsText1627" font-family="微软雅黑" text-anchor="start" font-size="13px" width="53px" fill="#323232" font-weight="400" align="middle" lineheight="125%" anchor="start" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="1.375" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1628" dy="16" x="10"><tspan id="SvgjsTspan1629" style="text-decoration:;">Heroku</tspan></tspan></text>
+    </g>
+  </g>
+  <g id="SvgjsG1630" transform="matrix(1, 0, 0, 1, 571.068436, 55.000003)">
+    <path id="SvgjsPath1631" d="M 0 4Q 0 0 4 0L 210 0Q 214 0 214 4L 214 150Q 214 154 210 154L 4 154Q 0 154 0 150Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#b2ebf2"/>
+    <path id="SvgjsPath1632" d="M 0 25L 64.2 25L 72.2 17L 72.2 0" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#b2ebf2"/>
+    <path id="SvgjsPath1633" d="M 0 0L 214 0L 214 154L 0 154Z" stroke="none" fill="none"/>
+    <g id="SvgjsG1634">
+      <text id="SvgjsText1635" font-family="微软雅黑" text-anchor="start" font-size="13px" width="194px" fill="#323232" font-weight="400" align="top" lineheight="125%" anchor="start" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="27.375" transform="rotate(0)" style="white-space: pre-wrap;"/>
+    </g>
+    <g id="SvgjsG1636">
+      <text id="SvgjsText1637" font-family="微软雅黑" text-anchor="start" font-size="13px" width="55px" fill="#323232" font-weight="400" align="middle" lineheight="125%" anchor="start" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="1.375" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1638" dy="16" x="10"><tspan id="SvgjsTspan1639" style="text-decoration:;">External</tspan></tspan></text>
+    </g>
+  </g>
+  <g id="SvgjsG1640" transform="matrix(1, 0, 0, 1, 571.068436, 292.999988)">
+    <path id="SvgjsPath1641" d="M 0 4 C 0 1.333 1.221 0 3.664 0 L 210.666 0 C 213.108 0 214.33 1.333 214.33 4 L 214.33 152.5 C 214.33 155.167 213.108 156.5 210.666 156.5 L 3.664 156.5 C 1.221 156.5 0 155.167 0 152.5 L 0 4 Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#ffcdd2" style=""/>
+    <path id="SvgjsPath1642" d="M 0 25L 70.2 25L 78.2 17L 78.2 0" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#ffcdd2"/>
+    <path id="SvgjsPath1643" d="M 0 0L 234 0L 234 156.5L 0 156.5Z" stroke="none" fill="none"/>
+    <g id="SvgjsG1644">
+      <text id="SvgjsText1645" font-family="微软雅黑" text-anchor="start" font-size="13px" width="214px" fill="#323232" font-weight="400" align="top" lineheight="125%" anchor="start" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="27.375" transform="rotate(0)" style="white-space: pre-wrap;"/>
+    </g>
+    <g id="SvgjsG1646">
+      <text id="SvgjsText1647" font-family="微软雅黑" text-anchor="start" font-size="13px" width="61px" fill="#323232" font-weight="400" align="middle" lineheight="125%" anchor="start" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="1.375" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1648" dy="16" x="10"><tspan id="SvgjsTspan1649" style="text-decoration:;">MongoDB</tspan></tspan></text>
+    </g>
+  </g>
+  <g id="SvgjsG1650" transform="matrix(1, 0, 0, 1, 629.720764, 339.879822)">
+    <path id="SvgjsPath1651" d="M 0 9.8C 0 -2.8000000000000003 100 -2.8000000000000003 100 9.8L 100 60.199999999999996C 100 72.8 0 72.8 0 60.199999999999996L 0 9.8Z" stroke="rgba(0,0,0,1)" stroke-width="2" fill-opacity="1" fill="#ffcdd2"/>
+    <path id="SvgjsPath1652" d="M 100 9.8C 100 21 0 21 0 9.8C 0 -2.8000000000000003 100 -2.8000000000000003 100 9.8Z" stroke="rgba(0,0,0,1)" stroke-width="2" fill-opacity="1" fill="#ffcdd2"/>
+    <path id="SvgjsPath1653" d="M 0 7Q 50 -7 100 7L 100 63Q 50 77 0 63L 0 7Z" stroke="none" fill="none"/>
+    <g id="SvgjsG1654">
+      <text id="SvgjsText1655" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="100px" fill="#323232" font-weight="400" align="middle" lineheight="125%" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="28.775000000000002" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1656" dy="16" x="50"><tspan id="SvgjsTspan1657" style="text-decoration:;">MongoDB</tspan></tspan></text>
+    </g>
+  </g>
+  <g id="SvgjsG1658" transform="matrix(1, 0, 0, 1, 345.068436, 110.500003)">
+    <path id="SvgjsPath1659" d="M 10.200000000000001 0L 102 0L 102 43L 10.200000000000001 43L 10.200000000000001 34.4L 0 34.4L 0 25.8L 10.200000000000001 25.8L 10.200000000000001 17.2L 0 17.2L 0 8.6L 10.200000000000001 8.6L 10.200000000000001 0Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#c8e6c9"/>
+    <path id="SvgjsPath1660" d="M 10.200000000000001 34.4L 20.400000000000002 34.4L 20.400000000000002 25.8L 10.200000000000001 25.8M 10.200000000000001 17.2L 20.400000000000002 17.2L 20.400000000000002 8.6L 10.200000000000001 8.6" stroke="rgba(50,50,50,1)" stroke-width="2" fill="none"/>
+    <path id="SvgjsPath1661" d="M 10.200000000000001 0L 102 0L 102 43L 10.200000000000001 43L 10.200000000000001 34.4L 0 34.4L 0 25.8L 10.200000000000001 25.8L 10.200000000000001 17.2L 0 17.2L 0 8.6L 10.200000000000001 8.6L 10.200000000000001 0Z" stroke="none" fill="none"/>
+    <g id="SvgjsG1662">
+      <text id="SvgjsText1663" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="80px" fill="#323232" font-weight="400" align="middle" lineheight="125%" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="10.375" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1664" dy="16" x="57.75"><tspan id="SvgjsTspan1665" style="text-decoration:underline;">Controller</tspan></tspan></text>
+    </g>
+  </g>
+  <g id="SvgjsG1666" transform="matrix(1, 0, 0, 1, 351.068436, 218.124988)">
+    <path id="SvgjsPath1667" d="M 10.200000000000001 0L 102 0L 102 43L 10.200000000000001 43L 10.200000000000001 34.4L 0 34.4L 0 25.8L 10.200000000000001 25.8L 10.200000000000001 17.2L 0 17.2L 0 8.6L 10.200000000000001 8.6L 10.200000000000001 0Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#c8e6c9"/>
+    <path id="SvgjsPath1668" d="M 10.200000000000001 34.4L 20.400000000000002 34.4L 20.400000000000002 25.8L 10.200000000000001 25.8M 10.200000000000001 17.2L 20.400000000000002 17.2L 20.400000000000002 8.6L 10.200000000000001 8.6" stroke="rgba(50,50,50,1)" stroke-width="2" fill="none"/>
+    <path id="SvgjsPath1669" d="M 10.200000000000001 0L 102 0L 102 43L 10.200000000000001 43L 10.200000000000001 34.4L 0 34.4L 0 25.8L 10.200000000000001 25.8L 10.200000000000001 17.2L 0 17.2L 0 8.6L 10.200000000000001 8.6L 10.200000000000001 0Z" stroke="none" fill="none"/>
+    <g id="SvgjsG1670">
+      <text id="SvgjsText1671" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="80px" fill="#323232" font-weight="400" align="middle" lineheight="125%" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="10.375" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1672" dy="16" x="57.75"><tspan id="SvgjsTspan1673" style="text-decoration:underline;">Service</tspan></tspan></text>
+    </g>
+  </g>
+  <g id="SvgjsG1674" transform="matrix(1, 0, 0, 1, 351.068436, 325.749988)">
+    <path id="SvgjsPath1675" d="M 10.200000000000001 0L 102 0L 102 43L 10.200000000000001 43L 10.200000000000001 34.4L 0 34.4L 0 25.8L 10.200000000000001 25.8L 10.200000000000001 17.2L 0 17.2L 0 8.6L 10.200000000000001 8.6L 10.200000000000001 0Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#c8e6c9"/>
+    <path id="SvgjsPath1676" d="M 10.200000000000001 34.4L 20.400000000000002 34.4L 20.400000000000002 25.8L 10.200000000000001 25.8M 10.200000000000001 17.2L 20.400000000000002 17.2L 20.400000000000002 8.6L 10.200000000000001 8.6" stroke="rgba(50,50,50,1)" stroke-width="2" fill="none"/>
+    <path id="SvgjsPath1677" d="M 10.200000000000001 0L 102 0L 102 43L 10.200000000000001 43L 10.200000000000001 34.4L 0 34.4L 0 25.8L 10.200000000000001 25.8L 10.200000000000001 17.2L 0 17.2L 0 8.6L 10.200000000000001 8.6L 10.200000000000001 0Z" stroke="none" fill="none"/>
+    <g id="SvgjsG1678">
+      <text id="SvgjsText1679" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="80px" fill="#323232" font-weight="400" align="middle" lineheight="125%" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="10.375" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1680" dy="16" x="57.75"><tspan id="SvgjsTspan1681" style="text-decoration:underline;">DAO</tspan></tspan></text>
+    </g>
+  </g>
+  <g id="SvgjsG1682" transform="matrix(1, 0, 0, 1, -1626.150314, -76.999997)">
+    <path id="SvgjsPath1683" d="M 1976.664 432.85 L 1947.219 432.85 L 1947.219 497.568 L 2305.828 497.568 L 2305.828 486.168" stroke="#323232" stroke-width="2" fill="none" marker-start="url(#SvgjsMarker1684)" marker-end="url(#SvgjsMarker1686)" style=""/>
+    <rect id="SvgjsRect1688" width="81" height="16" x="2027.6184948713917" y="489.5681483474218" fill="#ffffff"/>
+    <text id="SvgjsText1689" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="81px" fill="#323232" font-weight="400" align="top" lineheight="16px" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="486.9431483474218" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1690" dy="16" x="2068.1184948713917"><tspan id="SvgjsTspan1691" style="text-decoration:;">Read and  Write</tspan></tspan></text>
+  </g>
+  <g id="SvgjsG1692" transform="matrix(1, 0, 0, 1, -1626.150314, -76.999997)">
+    <path id="SvgjsPath1693" d="M1973.61875 415.65L1947.21875 415.65L1947.21875 325.225L1973.61875 325.225" stroke="#323232" stroke-width="2" fill="none" marker-start="url(#SvgjsMarker1694)" marker-end="url(#SvgjsMarker1696)"/>
+    <rect id="SvgjsRect1698" width="121" height="16" x="1886.71875" y="362.4375" fill="#ffffff"/>
+    <text id="SvgjsText1699" width="121px" align="top" lineheight="16px" anchor="middle" family="微软雅黑" size="13px" weight="400" transform="rotate(0)" style="fill: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-anchor: middle; white-space: pre-wrap;" x="1947.22" y="359.812" dy="16">Send and Receive Data</text>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;">Enter your text here.</text>
+  </g>
+  <g id="SvgjsG1702" transform="matrix(1, 0, 0, 1, -1626.150314, -76.999997)">
+    <path id="SvgjsPath1703" d="M1973.61875 308.025L1941.21875 308.025L1941.21875 217.6L1967.61875 217.6" stroke="#323232" stroke-width="2" fill="none" marker-start="url(#SvgjsMarker1704)" marker-end="url(#SvgjsMarker1706)"/>
+    <rect id="SvgjsRect1708" width="145" height="32" x="1868.71875" y="249.8125" style="stroke-opacity: 0; fill: rgba(255, 255, 255, 0.84);"/>
+    <text id="SvgjsText1709" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="145px" fill="#323232" font-weight="400" align="top" lineheight="16px" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="247.1875" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1710" dy="16" x="1941.21875"><tspan id="SvgjsTspan1711" style="text-decoration:;">Send and Receive </tspan></tspan><tspan id="SvgjsTspan1712" dy="16" x="1941.21875"><tspan id="SvgjsTspan1713" style="text-decoration:;">Request and Response Data</tspan></tspan></text>
+  </g>
+  <g id="SvgjsG1714" transform="matrix(1, 0, 0, 1, 629.068436, 121.000003)">
+    <path id="SvgjsPath1715" d="M 10.200000000000001 0L 102 0L 102 43L 10.200000000000001 43L 10.200000000000001 34.4L 0 34.4L 0 25.8L 10.200000000000001 25.8L 10.200000000000001 17.2L 0 17.2L 0 8.6L 10.200000000000001 8.6L 10.200000000000001 0Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#b2ebf2"/>
+    <path id="SvgjsPath1716" d="M 10.200000000000001 34.4L 20.400000000000002 34.4L 20.400000000000002 25.8L 10.200000000000001 25.8M 10.200000000000001 17.2L 20.400000000000002 17.2L 20.400000000000002 8.6L 10.200000000000001 8.6" stroke="rgba(50,50,50,1)" stroke-width="2" fill="none"/>
+    <path id="SvgjsPath1717" d="M 10.200000000000001 0L 102 0L 102 43L 10.200000000000001 43L 10.200000000000001 34.4L 0 34.4L 0 25.8L 10.200000000000001 25.8L 10.200000000000001 17.2L 0 17.2L 0 8.6L 10.200000000000001 8.6L 10.200000000000001 0Z" stroke="none" fill="none"/>
+    <g id="SvgjsG1718">
+      <text id="SvgjsText1719" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="80px" fill="#323232" font-weight="400" align="middle" lineheight="125%" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="10.375" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1720" dy="16" x="57.75"><tspan id="SvgjsTspan1721" style="text-decoration:underline;">Garmin API</tspan></tspan></text>
+    </g>
+  </g>
+  <g id="SvgjsG1722" transform="matrix(1, 0, 0, 1, -1626.150314, -76.999997)">
+    <path id="SvgjsPath1723" d="M2251.61875 211.9L2164.21875 211.9L2164.21875 209L2076.81875 209" stroke="#323232" stroke-width="2" fill="none" marker-start="url(#SvgjsMarker1724)" marker-end="url(#SvgjsMarker1726)"/>
+    <rect id="SvgjsRect1728" width="26" height="16" x="2151.21875" y="202.45" fill="#ffffff"/>
+    <text id="SvgjsText1729" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="26px" fill="#323232" font-weight="400" align="top" lineheight="16px" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="199.825" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1730" dy="16" x="2164.21875"><tspan id="SvgjsTspan1731" style="text-decoration:;">Push</tspan></tspan></text>
+  </g>
+  <g id="SvgjsG1732" transform="matrix(1, 0, 0, 1, 53.818436, 110.500003)">
+    <path id="SvgjsPath1733" d="M 0 0L 97.25 0L 97.25 43L 0 43Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#fff9c4"/>
+    <g id="SvgjsG1734">
+      <text id="SvgjsText1735" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="78px" fill="#323232" font-weight="400" align="middle" lineheight="125%" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="10.375" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1736" dy="16" x="49"><tspan id="SvgjsTspan1737" style="text-decoration:;">Authentication</tspan></tspan></text>
+    </g>
+  </g>
+  <g id="SvgjsG1738" transform="matrix(1, 0, 0, 1, 53.818436, 218.124988)">
+    <path id="SvgjsPath1739" d="M 0 0L 97.25 0L 97.25 43L 0 43Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#fff9c4"/>
+    <g id="SvgjsG1740">
+      <text id="SvgjsText1741" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="78px" fill="#323232" font-weight="400" align="middle" lineheight="125%" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="10.375" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1742" dy="16" x="49"><tspan id="SvgjsTspan1743" style="text-decoration:;">Activity Pages</tspan></tspan></text>
+    </g>
+  </g>
+  <g id="SvgjsG1744" transform="matrix(1, 0, 0, 1, -1626.150314, -76.999997)">
+    <path id="SvgjsPath1745" d="M1967.61875 200.4L1873.21875 200.4L1873.21875 200.4L1778.81875 200.4" stroke="#323232" stroke-width="2" fill="none" marker-start="url(#SvgjsMarker1746)" marker-end="url(#SvgjsMarker1748)"/>
+    <rect id="SvgjsRect1750" width="67" height="16" x="1839.71875" y="192.4" fill="#ffffff"/>
+    <text id="SvgjsText1751" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="67px" fill="#323232" font-weight="400" align="top" lineheight="16px" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="189.775" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1752" dy="16" x="1873.21875"><tspan id="SvgjsTspan1753" style="text-decoration:;">Authenticate</tspan></tspan></text>
+  </g>
+  <g id="SvgjsG1754" transform="matrix(1, 0, 0, 1, -1626.150314, -76.999997)">
+    <path id="SvgjsPath1755" d="M1728.59375 234.10000000000002L1728.59375 262.8125L1728.59375 262.8125L1728.59375 291.525" stroke="#323232" stroke-width="2" fill="none" marker-start="url(#SvgjsMarker1756)" marker-end="url(#SvgjsMarker1758)"/>
+  </g>
+</svg>

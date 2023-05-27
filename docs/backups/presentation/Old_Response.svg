@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="59.226 134.752 364.622 251" xmlns="http://www.w3.org/2000/svg">
+  <g id="SvgjsG1977" transform="matrix(1, 0, 0, 1, 70.392723, 180.554245)">
+    <path id="SvgjsPath1978" d="M 0 4Q 0 0 4 0L 337.3333333333328 0Q 341.3333333333328 0 341.3333333333328 4L 341.3333333333328 151.16666666666674Q 341.3333333333328 155.16666666666674 337.3333333333328 155.16666666666674L 4 155.16666666666674Q 0 155.16666666666674 0 151.16666666666674Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#fff9c4"/>
+    <path id="SvgjsPath1979" d="M 0 25L 102.39999999999984 25L 110.39999999999984 17L 110.39999999999984 0" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#fff9c4"/>
+    <path id="SvgjsPath1980" d="M 0 0L 341.3333333333328 0L 341.3333333333328 155.16666666666674L 0 155.16666666666674Z" stroke="none" fill="none"/>
+    <g id="SvgjsG1981">
+      <text id="SvgjsText1982" font-family="微软雅黑" text-anchor="start" font-size="13px" width="322px" fill="#323232" font-weight="700" align="top" lineheight="125%" anchor="start" family="微软雅黑" size="13px" weight="700" font-style="" opacity="1" y="27.375" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1983" dy="16" x="10"><tspan id="SvgjsTspan1984" style="text-decoration:;">In Java controller:</tspan></tspan><tspan id="SvgjsTspan1985" dy="16" x="10"><tspan id="SvgjsTspan1986" style="text-decoration:;">Some Examples:</tspan></tspan><tspan id="SvgjsTspan1987" dy="16" x="10"><tspan id="SvgjsTspan1988" style="text-decoration:;"> </tspan></tspan><tspan id="SvgjsTspan1989" dy="16" x="10"><tspan id="SvgjsTspan1990" style="text-decoration:;">return ResponseEntity.ok(${data});</tspan></tspan><tspan id="SvgjsTspan1991" dy="16" x="10"><tspan id="SvgjsTspan1992" style="text-decoration:;">return new ResponseEntity&lt;&gt;(${data}, HttpStatus.OK);</tspan></tspan><tspan id="SvgjsTspan1993" dy="16" x="10"><tspan id="SvgjsTspan1994" style="text-decoration:;">// Never Handle exceptions!!!</tspan></tspan></text>
+    </g>
+    <g id="SvgjsG1995">
+      <text id="SvgjsText1996" font-family="微软雅黑" text-anchor="start" font-size="13px" width="93px" fill="#323232" font-weight="700" align="middle" lineheight="125%" anchor="start" family="微软雅黑" size="13px" weight="700" font-style="" opacity="1" y="1.375" transform="rotate(0)" style="white-space: pre-wrap;"><tspan id="SvgjsTspan1997" dy="16" x="10"><tspan id="SvgjsTspan1998" style="text-decoration:;">Old Response</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
